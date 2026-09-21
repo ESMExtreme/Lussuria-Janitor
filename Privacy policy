@@ -1,0 +1,66 @@
+Privacy Policy for Lussuria Janitor
+
+Effective Date: September 21, 2026
+
+This Privacy Policy describes how Lussuria Janitor ("the Bot", "we", "us"), operated by ESMExplore ("Owner"), collects, uses, processes, and protects data gathered from Discord servers ("Guilds") and users. By adding Lussuria to your server or interacting with its features, you consent to the practices described in this policy.
+1. Information We Collect
+
+To function as a logging and experience-point (EXP) tracking bot for Tupperbox interactions, Lussuria automatically processes and collects the following information:
+
+    Message Content: Text content of messages sent strictly within designated logging channels (e.g., #tupper-log-channel).
+
+    Tupper & Webhook Metadata: Display names associated with Tupperbox webhook personas, message timestamps, and internal Discord message IDs.
+
+    Guild & Channel Identifiers: Discord Guild (Server) IDs and Channel IDs necessary to target designated channels and maintain server configurations.
+
+    User Identifiers: Discord User IDs when calculating and attributing EXP, levels, or administrative records to specific user accounts.
+
+    Note: Lussuria does not read, store, or process direct messages (DMs) or messages from channels outside the designated logging channels.
+
+2. How We Use Your Information
+
+The collected data is strictly utilized for the operational functionality of Lussuria:
+
+    Monitoring and logging designated channels to display messages in console logs.
+
+    Parsing Tupperbox webhook activity to calculate EXP and track levels for registered Tuppers.
+
+    Maintaining server-specific preferences and configuration settings.
+
+Data collected by Lussuria is never sold, rented, leased, or shared with third parties for commercial or marketing purposes.
+3. Data Storage and Security
+
+    Storage Environment: Configuration data, Tupper EXP tallies, and logs are stored securely using localized file databases (e.g., SQLite) or managed database storage configured by ESMExplore.
+
+    Data Processing & Retention: Messages processed for live terminal outputs are read in real-time. Stored EXP records and server settings are retained for as long as Lussuria remains in the Guild or until a formal deletion request is submitted.
+
+    Security Safeguards: Reasonable technical measures are maintained to prevent unauthorized access, alteration, or disclosure of stored data.
+
+4. Third-Party Services
+
+Lussuria operates within and relies upon third-party platforms:
+
+    Discord API: Subject to the Discord Terms of Service and Discord Privacy Policy.
+
+    Tupperbox: Tupper interactions processed via webhooks rely on data provided through the Tupperbox integration.
+
+5. Data Control and Deletion Requests
+
+Server administrators and individual users retain full control over their data:
+
+    Automated Cessation: Removing or kicking Lussuria from a Discord server immediately halts all active data collection for that server.
+
+    Data Erasure Requests: Server owners or users may request the total deletion of their server configurations or EXP profiles by reaching out directly to the Owner (ESMExplore).
+
+6. Updates to This Policy
+
+We reserve the right to revise this Privacy Policy at any time. Updates will be communicated through official project channels, updated repository documentation, or within server notifications. Continued interaction with Lussuria following updates constitutes acceptance of the revised terms.
+7. Contact Information
+
+For privacy concerns, data deletion requests, or questions regarding Lussuria, please contact:
+
+    Bot Name: Lussuria Janitor
+
+    Owner / Developer: ESMExplore
+
+    Platform: Discord
