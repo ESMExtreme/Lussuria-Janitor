@@ -1,0 +1,73 @@
+**Terms of Service for Lussuria**
+
+**Effective Date:** September 21, 2026
+
+By inviting **Lussuria** ("the Bot") to your Discord server ("Guild") or using its features, you agree to be bound by these Terms of Service ("Terms"). These Terms are maintained by **ESMExplore** ("Owner", "we", "us"). If you do not agree to these Terms, do not invite or use the Bot.
+
+---
+
+### 1. Description of Service
+
+Lussuria is an automated Discord bot designed to read message logs and calculate experience points (EXP) and level progression for Tupperbox avatars and user personas within designated server channels.
+
+---
+
+### 2. Acceptable Use and Restrictions
+
+When using Lussuria, you agree **not** to:
+
+* Attempt to exploit, reverse-engineer, strain, or spam the Bot’s infrastructure or underlying APIs.
+
+
+* Use the Bot to bypass Discord’s Terms of Service or Community Guidelines.
+* Artificially inflate EXP or level statistics through automated abuse, bot loops, or exploit scripts unless permitted by the server administrators.
+* Misrepresent ownership of the Bot or attempt to re-host or re-distribute the Bot under false pretenses.
+
+---
+
+### 3. Availability and Modifications
+
+* **Availability:** Lussuria is provided on an "as-is" and "as-available" basis. We do not guarantee uninterrupted, secure, or error-free operation. Maintenance, API changes, or unexpected downtime may occur.
+* **Service Changes:** ESMExplore reserves the right to modify, pause, or permanently discontinue any feature or the entire Bot service at any time without prior notice.
+
+---
+
+### 4. Termination of Service
+
+We reserve the right to restrict, suspend, or terminate access to Lussuria for specific Discord users or Guilds at our sole discretion, particularly in cases of abuse, security threats, or violations of these Terms. Server owners may terminate these Terms at any time by kicking or banning Lussuria from their server.
+
+---
+
+### 5. Limitation of Liability
+
+To the maximum extent permitted by applicable law, **ESMExplore** and any contributors shall not be liable for any direct, indirect, incidental, special, or consequential damages resulting from:
+
+* The use or inability to use the Bot.
+* The loss of data, EXP stats, or configuration files.
+
+
+* Actions taken by Discord, Tupperbox, or third-party APIs used by the Bot.
+
+
+
+---
+
+### 6. Privacy Policy
+
+Your use of Lussuria is also governed by our Privacy Policy, which outlines how we collect, store, and process message metadata and EXP logs.
+
+---
+
+### 7. Changes to These Terms
+
+We reserve the right to update or modify these Terms of Service at any time. Updates will be reflected in project documentation or server notifications. Continued use of Lussuria after changes take effect constitutes your acceptance of the revised Terms.
+
+---
+
+### 8. Contact Information
+
+For inquiries, support, or issues regarding Lussuria or these Terms, please contact:
+
+* **Bot Name:** Lussuria
+* **Owner:** ESMExplore
+* **Platform:** Discord
